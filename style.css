@@ -1,0 +1,29 @@
+
+h1{
+    color:rgb(246, 255, 0);
+    
+}
+ 
+body{
+   background-image: url("game div.png"); 
+    background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+    
+
+}
+h2{
+    color:burlywood;
+    font-size: 30pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+a{
+    color:wheat;
+    font-size: medium;
+    
+}
+#correct
+{
+    color:whitesmoke;
+}
